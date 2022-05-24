@@ -1,1 +1,2 @@
-# New-site
+# SIGHT
+Free Responsive Web Template
